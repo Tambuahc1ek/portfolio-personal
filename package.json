@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@vercel/speed-insights": "^1.2.0",
     "backendless": "^7.4.6",
     "daisyui": "^5.0.43",
     "framer-motion": "^12.23.0",
