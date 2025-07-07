@@ -1,5 +1,11 @@
 'use client';
 
+/* eslint-disable @typescript-eslint/no-unused-vars */
+/* eslint-disable react/no-unescaped-entities */
+
+import React from 'react';
+
+
 type Testimonial = {
   name: string;
   role: string;
