@@ -1,6 +1,6 @@
 export default function Navbar() {
   return (
-    <nav className="bg-white shadow-md py-4">
+    <nav className="bg-white shadow-md py-4 text-black">
       <div className="flex justify-center gap-6">
         <a href="#hero">Home</a>
         <a href="#about">About</a>
